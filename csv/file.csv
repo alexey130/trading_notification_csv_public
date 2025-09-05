@@ -1,0 +1,2 @@
+﻿registered id,action,direction,fromTs,note,pctChange,priceNow,priceThen,threshold,ticker,toTs,window,timestamp,user
+160334459,Trading_notification_BTC_60min,up,05.09.2025 06:59:00,false,0.93,112954.31,111911.99,false,BTC,05.09.2025 07:59:59,60m,1757059200,1
